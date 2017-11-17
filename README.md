@@ -8,4 +8,4 @@ So I decided to make a appliction which make tax and accounts more useful.
 Everything comes under one roof, with the help of appliction.
 I can say only one thing
 welcome to accounts and tax world.
-Application that make your life simple.
+Application that make "complicated things simple".
